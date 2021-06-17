@@ -79,7 +79,7 @@ return [
             'host' => $DB_URL["host"],
             'port' => $DB_URL["port"],
             'database' => ltrim($DB_URL["path"] , "/"),
-            'username' => $DB_URL["name"],
+            'username' => $DB_URL["user"],
             'password' => $DB_URL["pass"],
             'charset' => 'utf8',
             'prefix' => '',
