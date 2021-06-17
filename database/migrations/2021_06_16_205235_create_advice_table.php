@@ -17,6 +17,7 @@ class CreateAdviceTable extends Migration
             $table->id();
             $table->string("headline");
             $table->text("subtitle");
+            $table->string("image");
             $table->timestamps();
         });
     }

@@ -36,10 +36,9 @@ class GeneralSeeder extends Seeder
         DB::table('advice')->insert([
             "headline" => "Gatherings",
             "subtitle" => "Indoor gatherings are limited to a maximum of 6 people unless an exception applies.
-
 Outdoor gatherings are limited to a maximum of 30 people unless an exception applies.
-
 ",
+            "image" => "advice1.png"
         ]);
 
 
@@ -48,6 +47,8 @@ Outdoor gatherings are limited to a maximum of 30 people unless an exception app
             "subtitle" => "Businesses providing food and drink such as restaurants, pubs and cafes may allow customer to sit indoors or outdoors but must ensure customers remain seated while eating or drinking. Indoors groups will be limited to 6 people or 2 households. Outdoors groups will be limited to 30 people.
 
 ",
+            "image" => "advice2.png"
+
         ]);
 
         DB::table('advice')->insert([
@@ -56,8 +57,20 @@ Outdoor gatherings are limited to a maximum of 30 people unless an exception app
             "subtitle" => "Indoor entertainment and attractions such as cinemas, theatres, concert halls, bowling alleys, casinos, amusement arcades, museums and children’s indoor play areas will be permitted to open with COVID-secure measures in place.
 
 ",
+            "image" => "advice3.png"
+
         ]);
 
+
+        DB::table('advice')->insert([
+            "headline" => "Indoor attractions
+",
+            "subtitle" => "Indoor entertainment and attractions such as cinemas, theatres, concert halls, bowling alleys, casinos, amusement arcades, museums and children’s indoor play areas will be permitted to open with COVID-secure measures in place.
+
+",
+            "image" => "advice4.png"
+
+        ]);
 
     }
 }
