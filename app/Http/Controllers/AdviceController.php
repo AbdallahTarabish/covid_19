@@ -15,7 +15,4 @@ class AdviceController extends MainController
         $this->model = $advice;
     }
 
-    public function index()
-    {
-    }
 }

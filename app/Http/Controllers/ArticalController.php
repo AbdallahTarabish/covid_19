@@ -15,9 +15,6 @@ class ArticalController extends MainController
         $this->model = $artical;
     }
 
-    public function index()
-    {
-    }
 
 
 }

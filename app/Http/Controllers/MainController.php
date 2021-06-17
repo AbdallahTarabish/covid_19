@@ -13,6 +13,11 @@ class MainController extends Controller
     {
         return $this->model->paginate();
     }
+    public function show($id)
+    {
+        return $this->model->find( $id);
+    }
+
 
     public function store()
     {

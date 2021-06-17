@@ -9,4 +9,8 @@ class Artical extends Model
 {
     use HasFactory;
     protected $fillable=["title" , "subject" , "image"];
+    public function getImageAttribute($val)
+    {
+        return asset("upload/".$val);
+    }
 }
