@@ -16,20 +16,267 @@ class GeneralSeeder extends Seeder
     {
         DB::table('articals')->insert([
             'title' => " Endothelial Dysfunction for Acute Kidney Injury in Coronavirus Disease 2019: How Concerned Should We Be?",
-            'subject' => "Background: Recently, it has been shown that coronavirus disease 2019 (COVID-19), which has caused a pandemic since December 2019, can be accompanied by some neurological disorders. This study aimed to assess the prevalence of the most common neurological symptoms and comorbidities and systematically review the literature regarding the most prevalent neurological complications of COVID-19 infection. Methods: All relevant studies had been collected from PubMed, Scopus, Embase, and Web of Science databases. All extracted data were analyzed using Stata version 11.2. The I2 index was applied, and a random-effects model or a fixed-effects model was used for pooled estimation to assess the heterogeneity of studies. Furthermore, Egger and Beeg’s tests were used to evaluate the publication bias. Results: Fifty-seven studies (26 observational and 31 case reports) were included (including 6,597 COVID-19 patients). The most prevalent general symptoms were fever, cough, and dyspnea with 84.6% (95% CI: 75.3–92.1; I2 = 98.7%), 61.3% (95% CI: 55.3–67.0; I2 = 94.6%), and 34.2% (95% CI: 25.6–43.4; I2 = 97.7%), respectively. Neurological symptoms observed among COVID-19 patients were fatigue, gustatory dysfunction, anorexia, olfactory dysfunction, headache, dizziness, and nausea with 42.9% (95% CI: 36.7–49.3; I2 = 92.8%), 35.4% (95% CI: 11.2–64.4; I2 = 99.2%), 28.9% (95% CI: 19.9–38.8; I2 = 96.3%), 25.3% (95% CI: 1.6–63.4; I2 = 99.6%), 10.1% (95% CI: 2.7–21.0; I2 = 99.1%), 6.7% (95% CI: 3.7–10.5; I2 = 87.5%), and 5.9% (95% CI: 3.1–9.5; I2 = 94.5%). The most prevalent neurological comorbidity in COVID-19 was cerebrovascular disease with 4.3% (95% CI: 2.7–6.3; I2 = 78.7%). Conclusion: The most prevalent neurological manifestations of COVID-19 include fatigue, gustatory dysfunction, anorexia, olfactory dysfunction, headache, dizziness, and nausea. Cerebrovascular disorders can either act as a risk factor for poorer prognosis in COVID-19 patients or occur as a critical complication in these patients. Guillain-Barre syndrome, encephalitis, and meningitis have also been reported as complications of COVID-19.",
+            'subject' => "<h2>Abstract</h2>
+<h2>Background</h2>
+<p>Therapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illness.
+    Therapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illnessTherapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illnessTherapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illness
+</p>
+<h2>Methods</h2>
+<p>We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossibleWe conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible
+</p>
+<h2>Results</h2>
+<p><span>A total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%.</span>
+    A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before
+    infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to
+    0.81). No solicited adverse events were observed.
+    A total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%.</span>
+    A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before
+    infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to
+    0.81). No solicited adverse events were observedA total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%.</span>
+    A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before
+    infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to
+    0.81). No solicited adverse events were observed
+</p>
+<h2>Conclusions</h2>
+<p>Early administration of high-titer convalescent plasma against SARS-CoV-2 to mildly ill infected
+    older adults reduced the progression of Covid-19. (Funded by the Bill and Melinda Gates Foundation and the
+    Fundación INFANT Pandemic Fund; Dirección de Sangre y Medicina Transfusional del Ministerio de Salud number,
+    PAEPCC19, Plataforma de Registro Informatizado de Investigaciones en Salud number, 1421, and ClinicalTrials.gov
+    number, </p>
+",
             'image' => "art1.jpg",
         ]);
 
         DB::table('articals')->insert([
             'title' => "Neurological Symptoms, Comorbidities, and Complications of COVID-19: A Literature Review and Meta-Analysis of Observational Studies",
-            'subject' => "Background: Recently, it has been shown that coronavirus disease 2019 (COVID-19), which has caused a pandemic since December 2019, can be accompanied by some neurological disorders. This study aimed to assess the prevalence of the most common neurological symptoms and comorbidities and systematically review the literature regarding the most prevalent neurological complications of COVID-19 infection. Methods: All relevant studies had been collected from PubMed, Scopus, Embase, and Web of Science databases. All extracted data were analyzed using Stata version 11.2. The I2 index was applied, and a random-effects model or a fixed-effects model was used for pooled estimation to assess the heterogeneity of studies. Furthermore, Egger and Beeg’s tests were used to evaluate the publication bias. Results: Fifty-seven studies (26 observational and 31 case reports) were included (including 6,597 COVID-19 patients). The most prevalent general symptoms were fever, cough, and dyspnea with 84.6% (95% CI: 75.3–92.1; I2 = 98.7%), 61.3% (95% CI: 55.3–67.0; I2 = 94.6%), and 34.2% (95% CI: 25.6–43.4; I2 = 97.7%), respectively. Neurological symptoms observed among COVID-19 patients were fatigue, gustatory dysfunction, anorexia, olfactory dysfunction, headache, dizziness, and nausea with 42.9% (95% CI: 36.7–49.3; I2 = 92.8%), 35.4% (95% CI: 11.2–64.4; I2 = 99.2%), 28.9% (95% CI: 19.9–38.8; I2 = 96.3%), 25.3% (95% CI: 1.6–63.4; I2 = 99.6%), 10.1% (95% CI: 2.7–21.0; I2 = 99.1%), 6.7% (95% CI: 3.7–10.5; I2 = 87.5%), and 5.9% (95% CI: 3.1–9.5; I2 = 94.5%). The most prevalent neurological comorbidity in COVID-19 was cerebrovascular disease with 4.3% (95% CI: 2.7–6.3; I2 = 78.7%). Conclusion: The most prevalent neurological manifestations of COVID-19 include fatigue, gustatory dysfunction, anorexia, olfactory dysfunction, headache, dizziness, and nausea. Cerebrovascular disorders can either act as a risk factor for poorer prognosis in COVID-19 patients or occur as a critical complication in these patients. Guillain-Barre syndrome, encephalitis, and meningitis have also been reported as complications of COVID-19.",
-            'image' => "art2.jpg",
+            'subject' => "<h2>Abstract</h2>
+<h2>Background</h2>
+<p>Therapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illness.
+    Therapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illnessTherapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illnessTherapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illness
+</p>
+<h2>Methods</h2>
+<p>We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossibleWe conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible
+</p>
+<h2>Results</h2>
+<p><span>A total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%.</span>
+    A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before
+    infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to
+    0.81). No solicited adverse events were observed.
+    A total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%.</span>
+    A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before
+    infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to
+    0.81). No solicited adverse events were observedA total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%.</span>
+    A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before
+    infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to
+    0.81). No solicited adverse events were observed
+</p>
+<h2>Conclusions</h2>
+<p>Early administration of high-titer convalescent plasma against SARS-CoV-2 to mildly ill infected
+    older adults reduced the progression of Covid-19. (Funded by the Bill and Melinda Gates Foundation and the
+    Fundación INFANT Pandemic Fund; Dirección de Sangre y Medicina Transfusional del Ministerio de Salud number,
+    PAEPCC19, Plataforma de Registro Informatizado de Investigaciones en Salud number, 1421, and ClinicalTrials.gov
+    number, </p>
+",            'image' => "art2.jpg",
         ]);
 
         DB::table('articals')->insert([
             'title' => "Relative Sparing of the Left Upper Zone on Chest Radiography in Severe COVID-19 Pneumonia",
-            'subject' => "Background: Recently, it has been shown that coronavirus disease 2019 (COVID-19), which has caused a pandemic since December 2019, can be accompanied by some neurological disorders. This study aimed to assess the prevalence of the most common neurological symptoms and comorbidities and systematically review the literature regarding the most prevalent neurological complications of COVID-19 infection. Methods: All relevant studies had been collected from PubMed, Scopus, Embase, and Web of Science databases. All extracted data were analyzed using Stata version 11.2. The I2 index was applied, and a random-effects model or a fixed-effects model was used for pooled estimation to assess the heterogeneity of studies. Furthermore, Egger and Beeg’s tests were used to evaluate the publication bias. Results: Fifty-seven studies (26 observational and 31 case reports) were included (including 6,597 COVID-19 patients). The most prevalent general symptoms were fever, cough, and dyspnea with 84.6% (95% CI: 75.3–92.1; I2 = 98.7%), 61.3% (95% CI: 55.3–67.0; I2 = 94.6%), and 34.2% (95% CI: 25.6–43.4; I2 = 97.7%), respectively. Neurological symptoms observed among COVID-19 patients were fatigue, gustatory dysfunction, anorexia, olfactory dysfunction, headache, dizziness, and nausea with 42.9% (95% CI: 36.7–49.3; I2 = 92.8%), 35.4% (95% CI: 11.2–64.4; I2 = 99.2%), 28.9% (95% CI: 19.9–38.8; I2 = 96.3%), 25.3% (95% CI: 1.6–63.4; I2 = 99.6%), 10.1% (95% CI: 2.7–21.0; I2 = 99.1%), 6.7% (95% CI: 3.7–10.5; I2 = 87.5%), and 5.9% (95% CI: 3.1–9.5; I2 = 94.5%). The most prevalent neurological comorbidity in COVID-19 was cerebrovascular disease with 4.3% (95% CI: 2.7–6.3; I2 = 78.7%). Conclusion: The most prevalent neurological manifestations of COVID-19 include fatigue, gustatory dysfunction, anorexia, olfactory dysfunction, headache, dizziness, and nausea. Cerebrovascular disorders can either act as a risk factor for poorer prognosis in COVID-19 patients or occur as a critical complication in these patients. Guillain-Barre syndrome, encephalitis, and meningitis have also been reported as complications of COVID-19.",
-            'image' => "art3.jpg",
+            'subject' => "<h2>Abstract</h2>
+<h2>Background</h2>
+<p>Therapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illness.
+    Therapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illnessTherapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illnessTherapies to interrupt the progression of early coronavirus disease 2019 (Covid-19) remain
+    elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps
+    because antibodies should be administered earlier in the course of illness
+</p>
+<h2>Methods</h2>
+<p>We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible.
+
+    We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossibleWe conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high
+    IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within
+    72 hours after the onset of mild Covid-19 symptoms. The primary end point was severe respiratory disease,
+    defined as a respiratory rate of 30 breaths per minute or more, an oxygen saturation of less than 93% while the
+    patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size
+    because cases of Covid-19 in the trial region decreased considerably and steady enrollment of trial patients
+    became virtually impossible
+</p>
+<h2>Results</h2>
+<p><span>A total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%.</span>
+    A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before
+    infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to
+    0.81). No solicited adverse events were observed.
+    A total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%.</span>
+    A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before
+    infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to
+    0.81). No solicited adverse events were observedA total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%.</span>
+    A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before
+    infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to
+    0.81). No solicited adverse events were observed
+</p>
+<h2>Conclusions</h2>
+<p>Early administration of high-titer convalescent plasma against SARS-CoV-2 to mildly ill infected
+    older adults reduced the progression of Covid-19. (Funded by the Bill and Melinda Gates Foundation and the
+    Fundación INFANT Pandemic Fund; Dirección de Sangre y Medicina Transfusional del Ministerio de Salud number,
+    PAEPCC19, Plataforma de Registro Informatizado de Investigaciones en Salud number, 1421, and ClinicalTrials.gov
+    number, </p>
+",            'image' => "art3.jpg",
         ]);
 ///////////////////////
 
