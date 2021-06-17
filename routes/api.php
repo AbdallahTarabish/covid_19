@@ -26,3 +26,6 @@ Route::resources([
     "advice" =>\App\Http\Controllers\AdviceController::class ,
     "article" =>\App\Http\Controllers\ArticalController::class ,
 ]);
+Route::get("article/{id}/subject" , function ($id){
+    return \App\Models\Models\Artical::query()->select("subject")->where("id" , $id)->get();
+});
